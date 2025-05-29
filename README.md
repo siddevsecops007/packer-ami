@@ -1,4 +1,4 @@
 # packer-ami
 
 
-# This is packer ami 01
+# This is packer ami
