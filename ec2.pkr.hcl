@@ -1,3 +1,5 @@
+#This is packer Golden image creation code
+
 packer {
   required_plugins {
     amazon = {
@@ -36,3 +38,6 @@ build {
   }
 
 }
+
+
+##PUll test pull
